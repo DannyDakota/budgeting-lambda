@@ -1,0 +1,7 @@
+token
+awsaccesskey
+lambda/notion_webhook_lambda/code.zip
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+.terraform
